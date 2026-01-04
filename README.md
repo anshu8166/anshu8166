@@ -30,7 +30,7 @@
 📈 **CGPA**: 7.5  
 💬 **Pronouns**: he/him  
 📱 **Contact**:https://linkedin.com/in/anshu-kumar-tiwari-755a3b25b
-🚀 **Mission**: Build impactful data-driven solutions  
+  🚀 **Mission**: Build impactful data-driven solutions  
 
 </td>
 </tr>
@@ -203,7 +203,7 @@ Mar 2018 - May 2019
 | Platform | Link |
 |----------|------|
 | 💌 **Email** | [Anshukumar93939@gmail.com](mailto:Anshukumar93939@gmail.com) |
-| 🔗 **LinkedIn** | [linkedin.com/in/anshu-kumar-tiwari] |
+| 🔗 **LinkedIn** | [linkedin.com/in/anshu-kumar-tiwari] (https://linkedin.com/in/anshu-kumar-tiwari-755a3b25b) |
 | 🐙 **GitHub** | [github.com/anshu8166](https://github.com/anshu8166) |
 
 </div>
@@ -235,16 +235,3 @@ Mar 2018 - May 2019
 
 ---
 
-## 🔗 Featured Project Links
-
-Explore my interactive dashboards directly from the DATA-ANALYSIS-PROJECT repository:
-
-### 🚗💥 Project 3 - Road Accident Analysis Dashboard
-- **Repository Link**: https://github.com/anshu8166/DATA-ANALYSIS-PROJECT/tree/main/EXCEL/DASHBOARD/PROJECT%201%20-%20Road%20Accident%20Analysis
-- **Tool**: Microsoft Excel
-- **Focus**: Road Safety & Casualty Analysis
-
-### 🚕📊 Uber Vehicle Performance Dashboard
-- **Repository Link**: https://github.com/anshu8166/DATA-ANALYSIS-PROJECT/tree/main/POWERBI/DASHBOARD/PROJECT%201%20-%20Uber%20Vehicle%20Performance%20Dashboard
-- **Tool**: Power BI
-- **Focus**: Ride-Sharing Operations & Service Efficiency
