@@ -1,12 +1,13 @@
 # <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width='100'> Hi, I'm Anshu Kumar Tiwari
 
 <div align='center'>
-  
+
 **"Turning Raw Data Into Actionable Insights" 📊**
 
 [![GitHub followers](https://img.shields.io/github/followers/anshu8166?style=social)](https://github.com/anshu8166)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshu-kumar-tiwari-755a3b25b)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Anshukumar93939@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-FF5733?style=flat&logo=adobe&logoColor=white)]()
 
 </div>
 
@@ -14,7 +15,7 @@
 
 ## 🎓 **Final Year CSE Student | Data Analyst | BI Developer**
 
-> I'm passionate about transforming raw data into actionable insights through interactive dashboards and business intelligence solutions. Currently exploring opportunities in **Data Analytics** and **Software Development**.
+> Detail-oriented Computer Science undergraduate with strong skills in **data analysis, SQL, Excel, and Power BI**. Hands-on experience in building interactive dashboards and extracting actionable business insights from raw datasets. Proficient in **data cleaning, EDA, and visualization using Python**.
 
 ---
 
@@ -25,9 +26,10 @@
 <td>
 
 📍 **Location**: Jamshedpur, Jharkhand, India  
-🎓 **Education**: BTech CSE @ COEB (7th Semester)  
+🎓 **Education**: BTech CSE @ College Of Engineering Bhubaneswar (May 2022 - May 2026)  
 📈 **CGPA**: 7.5  
 💬 **Pronouns**: he/him  
+📱 **Contact**: +91 9905922184  
 🚀 **Mission**: Build impactful data-driven solutions  
 
 </td>
@@ -36,62 +38,121 @@
 
 ---
 
+## 🔥 **Key Expertise**
+
+### 📊 **Data Analysis & Visualization**
+- **Advanced Excel**: Pivot Tables, Power Query, VLOOKUP, INDEX-MATCH, Advanced Formulas
+- **Power BI**: Interactive Dashboards, DAX Basics, Data Modeling
+- **Python**: Pandas, NumPy, Matplotlib, Seaborn for EDA and visualization
+- **Exploratory Data Analysis (EDA)**: Identifying patterns, trends, and anomalies
+
+### 🗄️ **Database & Cloud Technologies**
+- **Databases**: SQL, MySQL, Big Query
+- **Cloud Platforms**: Google Cloud (Big Query, Cloud Storage), Azure Data Tools, AWS Redshift, Snowflake
+- **Data Platforms**: Familiar with modern cloud-based analytics solutions
+
+### 💼 **Business Intelligence & Analytics**
+- **KPI Analysis** | **Business Reporting** | **Dashboard Design**
+- **Trend Analysis** | **Root Cause Analysis** | **Data-Driven Decision Making**
+
+---
+
 ## 💡 **Technical Skills**
 
 ### 🔤 Languages
 ```
-🐍 Python | 📝 SQL | 🌐 HTML | 🎨 CSS
+🐍 Python | 📝 SQL | 🌐 HTML | 🎨 CSS | 🗣️ English | 🇮🇳 Hindi
 ```
 
-### 📊 Business Intelligence & Analytics
+### 📊 Data Analysis & BI Tools
 ```
-⚡ Power BI | 📑 Microsoft Excel | 📈 Tableau
-📉 Pivot Tables | 🎨 Data Visualization | 📋 Dashboard Design
+⚡ Power BI Dashboards | 📑 Microsoft Excel (Advanced) | 📈 Tableau
+📉 Power Query | 🎨 Data Visualization | 📋 Dashboard Design
 ```
 
 ### 🛠️ Data Tools & Libraries
 ```
-🐼 Pandas | 🔢 NumPy | 🔄 Data Transformation
-📌 VLOOKUP | 🔗 INDEX-MATCH | 🔮 Advanced Formulas
+🐼 Pandas | 🔢 NumPy | 📊 Matplotlib | 🎨 Seaborn
+📌 VLOOKUP | 🔗 INDEX-MATCH | 🔮 Advanced Formulas | 🧹 Data Cleaning
 ```
 
-### 🎯 Soft Skills
+### ☁️ Cloud & Big Data
 ```
-💭 Problem-solving | 📖 Data Storytelling | 🎨 Dashboard Design
-📊 Business Analysis | 🎤 Presentation Skills
+🌐 Google Cloud (Big Query, Cloud Storage) | ☁️ Azure Data Tools
+🔴 AWS Redshift | ❄️ Snowflake | 📦 Cloud-Based Analytics
 ```
+
+### 🎯 Core Competencies
+```
+✅ Data Cleaning & Preprocessing | ✅ Data Validation & Transformation
+✅ Exploratory Data Analysis (EDA) | ✅ Business Reporting
+✅ Trend & Root Cause Analysis | ✅ KPI Analysis
+```
+
+### 🛠️ Tools & Platforms
+```
+📋 Jira | 📊 Google Sheets | 📊 MS PowerPoint | 🎨 Canva for Reporting Visuals
+```
+
+---
+
+## 🎖️ **Certifications & Training**
+
+| Certification | Provider | Completion |
+|---|---|---|
+| 🏆 Google Cloud Coherent Program - Level 1 | Google Cloud | July 2025 |
+| 📊 Data Visualization in Excel | Coursera | ✓ Completed |
+| 📈 Excel Fundamentals for Data Analysis | Coursera | ✓ Completed |
+| 💼 Data Analytics & Visualization Job Simulation | Accenture | ✓ Completed |
+| 🎓 Introduction to Business Intelligence | Infosys SpringBoard | ✓ Completed |
 
 ---
 
 ## 🚀 **Featured Projects**
 
-### 🚗💥 **Road Accident Dashboard** (Microsoft Excel)
-**Comprehensive Safety Analysis & Insights**
-
+### 📊 **1. Retail Sales Performance Dashboard** 
+**Tools**: Power BI | SQL | Excel  
+**Impact**: Revealed that **electronics were the top-performing category (40% of total revenue)**
 ```
-✅ Casualty Types Analysis (Fatal, Serious, Slight)
-✅ Vehicle-Type Distribution Insights
-✅ Environmental & Geographical Trends
-✅ Rural vs Urban Comparison
-✅ Advanced Excel Functions (Pivot Tables, Slicers, Charts)
+✅ Cleaned & analyzed large-scale sales dataset with SQL
+✅ Built interactive Power BI dashboard with real-time insights
+✅ Identified key revenue drivers for business optimization
 ```
-
-🔗 **[Explore Project](https://github.com/anshu8166/DATA-ANALYSIS-PROJECT)** → 
 
 ---
 
-### 🚕📊 **Uber Vehicle Performance Dashboard** (Power BI)
-**Multi-Service Operational Analytics**
-
+### 👥 **2. Customer Segmentation & Churn Analysis**
+**Tools**: Advanced Excel | SQL | Power BI  
+**Impact**: Found that **month-to-month customers were 60% more likely to churn**
 ```
-✅ Revenue & Booking Analysis
+✅ Analyzed telecom dataset using Advanced Excel & SQL
+✅ Identified churn patterns across customer segments
+✅ Recommended targeted retention strategies
+```
+
+---
+
+### 🚗💥 **3. Road Accident Analysis Dashboard**
+**Tools**: Excel | Power Query | Pivot Tables  
+**Impact**: **Fatal accidents peaked 6 PM - 9 PM on weekends**
+```
+✅ Built interactive Excel dashboard with advanced functions
+✅ Analyzed accident data across multiple dimensions
+✅ Provided actionable insights for safety campaigns
+```
+
+---
+
+### 🚕📊 **4. Uber Vehicle Performance Dashboard**
+**Tools**: Power BI | SQL  
+**Features**:
+```
+✅ Revenue & Booking Analysis across service types
 ✅ Cancellation Deep-Dive (Driver vs Customer)
 ✅ Service Quality Metrics (Ratings)
 ✅ Monthly Trend Analysis
 ✅ Payment Method Preference Analysis
 ```
-
-🔗 **[Explore Project](https://github.com/anshu8166/DATA-ANALYSIS-PROJECT)** →
 
 ---
 
@@ -105,18 +166,36 @@
 | 📂 **Repositories** | 12 |
 | ⭐ **Starred Projects** | 1 |
 | 🌟 **Focus Area** | Data Analysis & BI |
+| 🏆 **Project Count** | 4+ |
 
 </div>
 
 ---
 
-## 📚 **Currently Working On**
+## 📚 **Currently Learning & Working On**
 
 - 📊 Building advanced Power BI dashboards with DAX queries
-- 🔬 Learning advanced statistical analysis techniques
-- 🌱 Exploring IoT and renewable energy applications
-- 🌐 Enhancing web development skills (HTML, CSS, Python)
-- 💼 Preparing for placement in Data Analytics roles
+- 🔬 Advanced statistical analysis & predictive modeling
+- 🌱 IoT and renewable energy applications  
+- 🌐 Full-stack web development (HTML, CSS, Python)
+- 🤖 Machine Learning fundamentals
+- 💼 Preparing for Data Analytics roles in top companies
+
+---
+
+## 🎓 **Education**
+
+**Bachelor of Technology in Computer Science Engineering**  
+College Of Engineering Bhubaneswar  
+May 2022 - May 2026
+
+**Senior Secondary (12th)**  
+Jks Inter College of Commerce, Jamshedpur  
+Mar 2021 - Dec 2022
+
+**Secondary (10th)**  
+Church School Beldih, Jamshedpur  
+Mar 2018 - May 2019
 
 ---
 
@@ -129,6 +208,7 @@
 | 💌 **Email** | [Anshukumar93939@gmail.com](mailto:Anshukumar93939@gmail.com) |
 | 🔗 **LinkedIn** | [linkedin.com/in/anshu-kumar-tiwari](https://linkedin.com/in/anshu-kumar-tiwari-755a3b25b) |
 | 🐙 **GitHub** | [github.com/anshu8166](https://github.com/anshu8166) |
+| 📱 **Phone** | +91 9905922184 |
 
 </div>
 
@@ -142,7 +222,8 @@
 - 📊 Data Analysis & Business Intelligence
 - 🤖 Building interactive dashboards
 - 💡 Problem-solving with data
-- 🚀 Career growth in tech
+- 🚀 Career opportunities in Data Analytics
+- 👥 Collaboration on data-driven projects
 
 **Feel free to reach out! I'm always open to learning and collaborating.**
 
@@ -153,5 +234,7 @@
 <div align='center'>
 
 ### ⭐ "Success is not about the destination, it's about the insights you discover along the way." 🌟
+
+**Last Updated**: January 2026 | **Status**: 🟢 Open to Opportunities
 
 </div>
