@@ -61,7 +61,7 @@
 
 ### 🔤 Languages
 ```
-🐍 Python | 📝 SQL | 🌐 HTML | 🎨 CSS | 🗣️ English | 🇮🇳 Hindi
+🐍 Python | 📝 SQL | 
 ```
 
 ### 📊 Data Analysis & BI Tools
@@ -176,9 +176,6 @@
 
 - 📊 Building advanced Power BI dashboards with DAX queries
 - 🔬 Advanced statistical analysis & predictive modeling
-- 🌱 IoT and renewable energy applications  
-- 🌐 Full-stack web development (HTML, CSS, Python)
-- 🤖 Machine Learning fundamentals
 - 💼 Preparing for Data Analytics roles in top companies
 
 ---
@@ -208,7 +205,6 @@ Mar 2018 - May 2019
 | 💌 **Email** | [Anshukumar93939@gmail.com](mailto:Anshukumar93939@gmail.com) |
 | 🔗 **LinkedIn** | [linkedin.com/in/anshu-kumar-tiwari](https://linkedin.com/in/anshu-kumar-tiwari-755a3b25b) |
 | 🐙 **GitHub** | [github.com/anshu8166](https://github.com/anshu8166) |
-| 📱 **Phone** | +91 9905922184 |
 
 </div>
 
