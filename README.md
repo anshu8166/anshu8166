@@ -233,4 +233,30 @@ Mar 2018 - May 2019
 
 **Last Updated**: January 2026 | **Status**: 🟢 Open to Opportunities
 
+---
+
+## My Repositories
+
+Explore my projects below:
+
+### PUBLIC REPOSITORIES
+
+- **DATA-ANALYSIS-PROJECT** - Interactive Dashboards Portfolio with Road Accident Analysis and Uber Vehicle Performance Dashboard
+  - Link: https://github.com/anshu8166/DATA-ANALYSIS-PROJECT
+
+### PRIVATE REPOSITORIES
+
+- **my_hugo_site** - Hugo Website Project
+- **sample-app** - Sample Application (Go)
+- **default** - Default Repository (Go)
+- **DATA-SCIENCE** - Data Science Roadmap 2025 with Resources and Projects
+- **Excel-Practice** - Excel Practice Exercises
+- **cloudrun-progression** - Cloud Run Progression (Docker)
+- **hello-cloudbuild-app** - Cloud Build Application (Python)
+- **hello-cloudbuild-env** - Cloud Build Environment (Python)
+- **CODSOFT** - CODSOFT Projects (Jupyter Notebook)
+- **PYTHON-** - Python Projects
+
+---
+
 </div>
