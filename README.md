@@ -235,28 +235,16 @@ Mar 2018 - May 2019
 
 ---
 
-## My Repositories
+## 🔗 Featured Project Links
 
-Explore my projects below:
+Explore my interactive dashboards directly from the DATA-ANALYSIS-PROJECT repository:
 
-### PUBLIC REPOSITORIES
+### 🚗💥 Project 3 - Road Accident Analysis Dashboard
+- **Repository Link**: https://github.com/anshu8166/DATA-ANALYSIS-PROJECT/tree/main/EXCEL/DASHBOARD/PROJECT%201%20-%20Road%20Accident%20Analysis
+- **Tool**: Microsoft Excel
+- **Focus**: Road Safety & Casualty Analysis
 
-- **DATA-ANALYSIS-PROJECT** - Interactive Dashboards Portfolio with Road Accident Analysis and Uber Vehicle Performance Dashboard
-  - Link: https://github.com/anshu8166/DATA-ANALYSIS-PROJECT
-
-### PRIVATE REPOSITORIES
-
-- **my_hugo_site** - Hugo Website Project
-- **sample-app** - Sample Application (Go)
-- **default** - Default Repository (Go)
-- **DATA-SCIENCE** - Data Science Roadmap 2025 with Resources and Projects
-- **Excel-Practice** - Excel Practice Exercises
-- **cloudrun-progression** - Cloud Run Progression (Docker)
-- **hello-cloudbuild-app** - Cloud Build Application (Python)
-- **hello-cloudbuild-env** - Cloud Build Environment (Python)
-- **CODSOFT** - CODSOFT Projects (Jupyter Notebook)
-- **PYTHON-** - Python Projects
-
----
-
-</div>
+### 🚕📊 Uber Vehicle Performance Dashboard
+- **Repository Link**: https://github.com/anshu8166/DATA-ANALYSIS-PROJECT/tree/main/POWERBI/DASHBOARD/PROJECT%201%20-%20Uber%20Vehicle%20Performance%20Dashboard
+- **Tool**: Power BI
+- **Focus**: Ride-Sharing Operations & Service Efficiency
