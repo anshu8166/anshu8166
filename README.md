@@ -29,7 +29,7 @@
 🎓 **Education**: BTech CSE @ College Of Engineering Bhubaneswar (May 2022 - May 2026)  
 📈 **CGPA**: 7.5  
 💬 **Pronouns**: he/him  
-📱 **Contact**: +91 9905922184  
+📱 **Contact**: (https://linkedin.com/in/anshu-kumar-tiwari-755a3b25b)
 🚀 **Mission**: Build impactful data-driven solutions  
 
 </td>
@@ -203,7 +203,7 @@ Mar 2018 - May 2019
 | Platform | Link |
 |----------|------|
 | 💌 **Email** | [Anshukumar93939@gmail.com](mailto:Anshukumar93939@gmail.com) |
-| 🔗 **LinkedIn** | [linkedin.com/in/anshu-kumar-tiwari](https://linkedin.com/in/anshu-kumar-tiwari-755a3b25b) |
+| 🔗 **LinkedIn** | [linkedin.com/in/anshu-kumar-tiwari] |
 | 🐙 **GitHub** | [github.com/anshu8166](https://github.com/anshu8166) |
 
 </div>
