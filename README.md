@@ -203,10 +203,8 @@ Mar 2018 - May 2019
 | Platform | Link |
 |----------|------|
 | 💌 **Email** | [Anshukumar93939@gmail.com](mailto:Anshukumar93939@gmail.com) |
-| 🔗 **LinkedIn** | [linkedin.com/in/anshu-kumar-tiwari] (https://linkedin.com/in/anshu-kumar-tiwari-755a3b25b) |
-| 🐙 **GitHub** | [github.com/anshu8166](https://github.com/anshu8166) |
-
-</div>
+| 🔗 **LinkedIn** | [linkedin.com/in/anshu-kumar-tiwari](https://linkedin.com/in/anshu-kumar-tiwari-755a3b25b) |
+| 💙 **GitHub** | [github.com/anshu8166](https://github.com/anshu8166) 
 
 ---
 
