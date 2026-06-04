@@ -228,7 +228,7 @@ Mar 2018 - May 2019
 
 ### ⭐ "Success is not about the destination, it's about the insights you discover along the way." 🌟
 
-**Last Updated**: January 2026 | **Status**: 🟢 Open to Opportunities
+**Last Updated**: June 2026 | **Status**: 🟢 Open to Opportunities
 
----
+-⭐ Open to Data Analyst, MIS Executive, Reporting Analyst, and BI Developer opportunities.--
 
