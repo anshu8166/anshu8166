@@ -29,7 +29,6 @@
 📈 **CGPA**: 7.5  
 💬 **Pronouns**: he/him  
 📱**Contact**:https://linkedin.com/in/anshu-kumar-tiwari-755a3b25b
-
 🚀 **Mission**: Build impactful data-driven solutions  
 
 </td>
