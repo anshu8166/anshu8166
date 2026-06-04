@@ -28,7 +28,7 @@
 🎓 **Education**: BTech CSE @ College Of Engineering Bhubaneswar (May 2022 - May 2026)  
 📈 **CGPA**: 7.5  
 💬 **Pronouns**: he/him  
-📱**Contact**:https://linkedin.com/in/anshu-kumar-tiwari-755a3b25b
+📱**Contact**:https://linkedin.com/in/anshu-kumar-tiwari-755a3b25b                                                                                                
 🚀 **Mission**: Build impactful data-driven solutions  
 
 </td>
