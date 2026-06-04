@@ -13,9 +13,8 @@
 
 ---
 
-## 🎓 **Final Year CSE Student | Data Analyst | BI Developer**
-
-> Detail-oriented Computer Science undergraduate with strong skills in **data analysis, SQL, Excel, and Power BI**. Hands-on experience in building interactive dashboards and extracting actionable business insights from raw datasets. Proficient in **data cleaning, EDA, and visualization using Python**.
+## 🎓 Computer Science Graduate | Data Analyst | BI Developer | MIS Executive
+> Detail-oriented Computer Science graduate with strong skills in **data analysis, SQL, Excel, and Power BI**. Hands-on experience in building interactive dashboards and extracting actionable business insights from raw datasets. Proficient in **data cleaning, EDA, and visualization using Python**.
 
 ---
 
@@ -30,6 +29,8 @@
 📈 **CGPA**: 7.5  
 💬 **Pronouns**: he/him  
 📱**Contact**:https://linkedin.com/in/anshu-kumar-tiwari-755a3b25b
+
+
 🚀 **Mission**: Build impactful data-driven solutions  
 
 </td>
