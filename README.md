@@ -118,12 +118,12 @@
 ✅ Identified key revenue drivers for business optimization
 ```
 
+
+
 ## 📷 Dashboard Preview
+<img width="1916" height="1020" alt="image" src="RETAIL SALES PERFORMANCE DASHBOARD/SCREENSHOT/Screenshot 2026-06-22 145140.png" />
 
-<img width="1916" height="1020" alt="image" src="EXCEL/DASHBOARD/PROJECT 1 - Road Accident Analysis/Road Accident Dashboard.png" />
-
-
-**---**
+---
 
 ### 👥 **2. Customer Segmentation & Churn Analysis**
 **Tools**: Advanced Excel | SQL | Power BI  
@@ -161,12 +161,13 @@
 ✅ Monthly Trend Analysis
 ✅ Payment Method Preference Analysis
 ```
+
+
+
+
 ## 📷 Dashboard Preview
-
 <img width="1916" height="1020" alt="image" src="POWERBI/DASHBOARD/PROJECT 1 - Uber Vehicle Performance Dashboard/Uber Data.png" />
-
-
----
+--- 
 
 ## 📊 **GitHub Statistics**
 
