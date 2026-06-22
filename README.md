@@ -121,10 +121,9 @@
 ## 📷 Dashboard Preview
 
 <img width="1916" height="1020" alt="image" src="EXCEL/DASHBOARD/PROJECT 1 - Road Accident Analysis/Road Accident Dashboard.png" />
----
 
 
----
+**---**
 
 ### 👥 **2. Customer Segmentation & Churn Analysis**
 **Tools**: Advanced Excel | SQL | Power BI  
@@ -150,8 +149,7 @@
 ```
 ## 📷 Dashboard Preview
 
-<img width="1916" height="1020" alt="image" src="EXCEL/DASHBOARD/PROJECT 1 - Road Accident Analysis/Road Accident 
----
+<img width="1916" height="1020" alt="image" src="EXCEL/DASHBOARD/PROJECT 1 - Road Accident Analysis/Road Accident" >
 
 ### 🚕📊 **4. Uber Vehicle Performance Dashboard**
 **Tools**: Power BI | SQL  
@@ -164,8 +162,9 @@
 ✅ Payment Method Preference Analysis
 ```
 ## 📷 Dashboard Preview
+
 <img width="1916" height="1020" alt="image" src="POWERBI/DASHBOARD/PROJECT 1 - Uber Vehicle Performance Dashboard/Uber Data.png" />
----
+
 
 ---
 
