@@ -118,6 +118,12 @@
 ✅ Identified key revenue drivers for business optimization
 ```
 
+## 📷 Dashboard Preview
+
+<img width="1916" height="1020" alt="image" src="EXCEL/DASHBOARD/PROJECT 1 - Road Accident Analysis/Road Accident Dashboard.png" />
+---
+
+
 ---
 
 ### 👥 **2. Customer Segmentation & Churn Analysis**
@@ -128,6 +134,9 @@
 ✅ Identified churn patterns across customer segments
 ✅ Recommended targeted retention strategies
 ```
+### 🛠️ Dashboard 
+![Customer Churn Dashboard](https://github.com/DataVizExpert-Sham/Predictive-Customer-Analytics-in-Power-BI/assets/151017676/e91b9651-b26e-4ca0-af99-feb91311f5dd)
+---
 
 ---
 
@@ -139,7 +148,9 @@
 ✅ Analyzed accident data across multiple dimensions
 ✅ Provided actionable insights for safety campaigns
 ```
+## 📷 Dashboard Preview
 
+<img width="1916" height="1020" alt="image" src="EXCEL/DASHBOARD/PROJECT 1 - Road Accident Analysis/Road Accident 
 ---
 
 ### 🚕📊 **4. Uber Vehicle Performance Dashboard**
@@ -152,6 +163,9 @@
 ✅ Monthly Trend Analysis
 ✅ Payment Method Preference Analysis
 ```
+## 📷 Dashboard Preview
+<img width="1916" height="1020" alt="image" src="POWERBI/DASHBOARD/PROJECT 1 - Uber Vehicle Performance Dashboard/Uber Data.png" />
+---
 
 ---
 
