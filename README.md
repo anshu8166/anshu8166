@@ -1,3 +1,4 @@
+
 # <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width='100'> Hi, I'm Anshu Kumar Tiwari
 
 <div align='center'>
@@ -120,9 +121,10 @@
 
 
 
-## 📷 Dashboard Preview
-<img width="1916" height="1020" alt="image" src="RETAIL SALES PERFORMANCE DASHBOARD/SCREENSHOT/Screenshot 2026-06-22 145140.png" />
 
+### 📷 Dashboard Preview
+
+![Retail Sales Dashboard](https://raw.githubusercontent.com/anshu8166/DATA-ANALYSIS-PROJECT/main/RETAIL%20SALES%20PERFORMANCE%20DASHBOARD/SCREENSHOT/Screenshot%202026-06-22%20145140.png)
 ---
 
 ### 👥 **2. Customer Segmentation & Churn Analysis**
@@ -149,8 +151,8 @@
 ```
 ## 📷 Dashboard Preview
 
-<img width="1916" height="1020" alt="image" src="EXCEL/DASHBOARD/PROJECT 1 - Road Accident Analysis/Road Accident" >
 
+![Road Accident Dashboard](https://raw.githubusercontent.com/anshu8166/DATA-ANALYSIS-PROJECT/main/EXCEL/DASHBOARD/PROJECT%201%20-%20Road%20Accident%20Analysis/Road%20Accident%20Dashboard.png)
 ### 🚕📊 **4. Uber Vehicle Performance Dashboard**
 **Tools**: Power BI | SQL  
 **Features**:
@@ -166,8 +168,9 @@
 
 
 ## 📷 Dashboard Preview
-<img width="1916" height="1020" alt="image" src="POWERBI/DASHBOARD/PROJECT 1 - Uber Vehicle Performance Dashboard/Uber Data.png" />
---- 
+
+
+![Uber Dashboard](https://raw.githubusercontent.com/anshu8166/DATA-ANALYSIS-PROJECT/main/POWERBI/DASHBOARD/PROJECT%201%20-%20Uber%20Vehicle%20Performance%20Dashboard/Uber%20Data.png)--- 
 
 ## 📊 **GitHub Statistics**
 
