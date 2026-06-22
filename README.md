@@ -48,8 +48,10 @@
 
 ### 🗄️ **Database & Cloud Technologies**
 - **Databases**: SQL, MySQL, Big Query
+<!--
 - **Cloud Platforms**: Google Cloud (Big Query, Cloud Storage), Azure Data Tools, AWS Redshift, Snowflake
 - **Data Platforms**: Familiar with modern cloud-based analytics solutions
+-->
 
 ### 💼 **Business Intelligence & Analytics**
 - **KPI Analysis** | **Business Reporting** | **Dashboard Design**
@@ -75,12 +77,13 @@
 🐼 Pandas | 🔢 NumPy | 📊 Matplotlib | 🎨 Seaborn
 📌 VLOOKUP | 🔗 INDEX-MATCH | 🔮 Advanced Formulas | 🧹 Data Cleaning
 ```
-
+<!--
 ### ☁️ Cloud & Big Data
 ```
 🌐 Google Cloud (Big Query, Cloud Storage) | ☁️ Azure Data Tools
 🔴 AWS Redshift | ❄️ Snowflake | 📦 Cloud-Based Analytics
 ```
+-->
 
 ### 🎯 Core Competencies
 ```
