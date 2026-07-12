@@ -5,7 +5,7 @@
 
 **"Turning Raw Data Into Actionable Insights" 📊**
 
-style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshu-kumar-tiwari-755a3b25b)
+style=flat&logo=linkedin&logoColor=white)]()
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Anshukumar93939@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-FF5733?style=flat&logo=adobe&logoColor=white)]()
 
